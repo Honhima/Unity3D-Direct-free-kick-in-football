@@ -2,7 +2,7 @@
 English:
 A football direct free kick demo based on Mathematical Modeling,you can use mouse/keyboard to adjust the game perspective/shooting angle.
 The Mathematical Modeling takes the air resistance into consideration,and mainly based on the Magnus Effect.
-Use the LineRenderer to create a sight for football shooting,and you can adjust the flying curve by moving your mouse.
+Use the LineRenderer to create a sight for football shooting,and you can adjust the flying curve by moving your mouse.Use many prefabs to create a equal proportion football field.
 
 Chinese:
 基于Unity3D，根据已有的数学模型，主要根据马格努斯效应，考虑空气阻力。
