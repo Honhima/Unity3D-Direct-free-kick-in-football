@@ -1,7 +1,7 @@
-English:
 # Unity3D-Direct-free-kick-in-football
+English:
 A football direct free kick demo based on Mathematical Modeling,you can use mouse/keyboard to adjust the game perspective/shooting angle
-The Mathematical Modeling takes the air resistance into consideration,and mainly based on the Magnus Effect。
+The Mathematical Modeling takes the air resistance into consideration,and mainly based on the Magnus Effect.
 Use the LineRenderer to create a sight for football shooting,and you can adjust the flying curve by moving your mouse.
 
 Chinese:
